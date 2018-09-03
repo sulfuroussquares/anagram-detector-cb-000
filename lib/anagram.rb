@@ -15,6 +15,6 @@ def match(wordarray)
   tempArray << i
   end}
   tempArray
-
+end
 
 end
